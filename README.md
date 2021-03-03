@@ -10,4 +10,4 @@ The focus of this project is to send a text message regarding the stock price of
 ## Preview
 
 **This the message that Twilio sends**
-![]()
+![](message.png)
